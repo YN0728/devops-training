@@ -1,0 +1,7 @@
+config/RequestSpecSetup.class
+pages/Tutorials.class
+pages/BasePage.class
+pages/Add.class
+utils/TestUtils.class
+endpoints/TutorialsEndpoints.class
+config/Config.class
