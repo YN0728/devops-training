@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import pages.Tutorials;
 
-public class TutorialsPage extends BaseTest{
+public class TutorialsPageTest extends BaseTest{
 
     private final ThreadLocal<Tutorials> tutorialsPage = new ThreadLocal<>();
     private JSONObject tutorial;

@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name = "Devops">
+    <test name="API tests">
+        <classes>
+            <class name="ui.AddTests"/>
+            <class name="ui.TutorialsPageTest"/>
+        </classes>
+    </test>
+</suite>
